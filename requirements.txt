@@ -102,7 +102,7 @@ flake8==3.7.8
 mypy==0.730
 
 # Automatic code formatting
-black==19.3b0
+black==26.10.1
 
 # For creating git precommit hooks
 pre-commit==1.18.3
